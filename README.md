@@ -16,6 +16,7 @@ The result is inside the output file.
 
 [input sample]
 3 100
+
 [output sample]
 891
 
